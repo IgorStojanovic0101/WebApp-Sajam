@@ -1,0 +1,30 @@
+#about
+{
+   
+    width: 100%;
+    height: 100%;
+    float:left;
+}
+
+.Biljka{
+border: solid 2px;
+margin: 5px;
+float: left;
+width: 50px;
+height: 50px;
+}
+.Red{
+clear: both;
+}
+.Levi{
+ padding: 50px;
+width: 70%;
+float:left;
+height:100%;
+}
+.Desni{
+padding:50px;
+width: 30%;
+float: left;
+height: 100%;
+}

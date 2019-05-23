@@ -1,0 +1,30 @@
+.Levi{
+ padding: 50px;
+width: 70%;
+float:left;
+height:100%;
+}
+.Desni{
+    padding:50px;
+width: 30%;
+float: left;
+height: 100%;
+}
+
+.imeIprezime
+{
+    
+    font-size: 50px;
+    height: 30%; 
+    width: 500px;
+    
+    float:left;
+}
+
+.hcars {
+	margin: 0 0 20px 0;
+	font-weight: 500;
+	font-size: 34px;
+	color: #333;
+	text-transform: uppercase;
+}

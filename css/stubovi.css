@@ -1,0 +1,72 @@
+#pictures
+{
+    width: 100%;
+    height: 100%;
+    float:left;
+}
+
+.Levi{
+ padding: 50px;
+width: 70%;
+float:left;
+height:100%;
+}
+.Desni{
+    
+width: 30%;
+float: left;
+height: 100%;
+}
+
+.imeIprezime
+{
+    
+    font-size: 50px;
+    height: 30%; 
+    width: 500px;
+    
+    float:left;
+}
+.stub
+{
+	background-color:white;
+}
+
+.stub-kontejner
+{
+	background-color:blue;
+	width:100%;
+	height:80%;
+}
+.stub-kontejner2
+{
+	background-color:white;
+	width:100%;
+	height:80%;
+}
+
+
+.kzk
+{
+	width:50px;
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+	height:400px;
+}
+
+label
+{
+        
+	text-align:center;
+	margin-left:5px;
+}
+
+.kontejner
+{
+   width: 500px;
+    position:relative;
+	height:70%;
+        
+	
+}
